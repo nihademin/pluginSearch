@@ -1,0 +1,1 @@
+$("#cities").searchDrop("Baki","Naxçıvan","Gəncə","Novxanı","Lokbatan","Qebele","Qax","Qusar","Xacmaz","Lenkeran","Quba","Ismayilli","Zerdab","Merdekan","Zaqatala","Tovuz","Berde","Agcabedi","Siyezen")

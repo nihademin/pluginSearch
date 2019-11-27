@@ -1,0 +1,27 @@
+#cities {
+  padding: 10px;
+  margin: 40px;
+}
+
+.bottomWrap {
+  position: relative;
+}
+
+.wrapperDiv {
+  display: none;
+  position: absolute;
+  height: 300px;
+  overflow-y: scroll;
+  width: 200px;
+  border: 1px solid #eee;
+  padding: 10px;
+}
+
+.wrapperDiv p {
+  padding: 10px;
+}
+
+.wrapperDiv p:hover {
+  background: #ddd;
+}
+/*# sourceMappingURL=style.css.map */
